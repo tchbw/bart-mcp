@@ -1,3 +1,3 @@
-# A Simple MCP weather Server written in TypeScript
+# A Simple MCP server to access BART departures data
 
-See the [Quickstart](https://modelcontextprotocol.io/quickstart) tutorial for more information.
+MCP implementation of BART
